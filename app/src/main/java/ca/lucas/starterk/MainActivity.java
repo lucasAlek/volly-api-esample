@@ -12,7 +12,7 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
 public class MainActivity extends AppCompatActivity {
-
+// first go to https://developer.android.com/training/volley/index.html 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
